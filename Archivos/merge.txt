@@ -1,3 +1,6 @@
 al reazlizar cambios en el repositorio, sean de forma remota o en la itnerfaz de github se genera un commit para poder hacer oficiales estos cambios, y se pushea para poder subirlo a el git
 Samuel Gutierrez 19 años |
 con respecto a esta materia me gustaria poder desarrollarla con mucha actitud y poder aprender la magia de la programacion orientada a objetos
+
+es importante manipular con cuidado este tipo de conflictos ya que en trabajo colaborativo puede complicar mucho el proceso si se interpolan o se sopbreponen 
+los progresos de un programador con el de otro
