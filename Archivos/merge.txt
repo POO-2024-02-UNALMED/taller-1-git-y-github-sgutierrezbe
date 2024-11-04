@@ -1,0 +1,1 @@
+al reazlizar cambios en el repositorio, sean de forma remota o en la itnerfaz de github se genera un commit para poder hacer oficiales estos cambios, y se pushea para poder subirlo a el git
