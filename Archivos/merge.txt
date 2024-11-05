@@ -3,4 +3,4 @@ Samuel Gutierrez 19 años |
 con respecto a esta materia me gustaria poder desarrollarla con mucha actitud y poder aprender la magia de la programacion orientada a objetos
 
 es importante manipular con cuidado este tipo de conflictos ya que en trabajo colaborativo puede complicar mucho el proceso si se interpolan o se sopbreponen 
-los progresos de un programador con el de otro
+los progresos de un programador con el de otro.
